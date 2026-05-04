@@ -1,4 +1,4 @@
-# Hey, I'm Anakh 👋
+# Hey, I'm Anagh V P 👋
 
 I'm a developer from Kerala, India, teaching myself systems programming
 the hard way — C, Bash, Linux, Git. No bootcamp. No shortcuts.
