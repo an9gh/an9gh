@@ -28,10 +28,6 @@ through the language — pointers, structs, memory, the works.
 Shell scripts I've written while learning Bash. Automation, file
 manipulation, system tasks. Gets updated regularly.
 
-### [vagabond](https://github.com/an9gh/vagabond)
-My first attempt at hosting something on GitHub Pages. Small, but it's
-where I started treating git like a real tool.
-
 ---
 
 ## 📍 Where I'm At
