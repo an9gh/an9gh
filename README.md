@@ -17,7 +17,7 @@ I care about understanding systems at the level where things actually break, not
 
 ### Currently
 
-- ✅ **Completed RHCSA** — hands-on with NFS, firewalld, and SELinux (troubleshooting real AVC denials, not just theory)
+- ✅ **Completed RHCSA** — hands-on with NFS ,User & Groups ,firewalld ,SELinux ,Permissions ,partitioning ,Analysing logs and Scp,Sftp 
 - 🔧 **Working toward RHCE (EX294)** — building out Ansible automation labs from scratch
 - ☁️ **Learning AWS** — extending the Linux foundation into cloud infrastructure
 - 📋 Documenting each lab as I go, rather than just completing and moving on
